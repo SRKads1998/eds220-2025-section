@@ -1,7 +1,7 @@
 # EDS 220 Discussion Sections Repository
 
-This repository hosts all the work completed by [YOUR NAME HERE] during the discussion sections of EDS 220 - *Working with Environmental Data*.
-
+This repository hosts all the work completed by Stephan during the discussion sections of EDS 220 - *Working with Environmental Data*.
+test update
 ## Course Information
 
 - **Course Title:** [EDS 220 - Working with Environmental Datasets](https://bren.ucsb.edu/courses/eds-220)
